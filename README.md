@@ -91,7 +91,7 @@ The data includes information on launch sites, payload masses, booster versions,
 4. **Run Dashboards**:
    Navigate to the `scripts/` directory and run the Plotly Dash app:
    ```bash
-   python dashboard_app.py
+   python spacex_dash_app.py
    ```
 
 5. **Review Outputs**:
